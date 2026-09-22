@@ -1,0 +1,7 @@
+Tahun,Kelas,Producer_Accuracy,User_Accuracy
+2023,0,0.9231,1.0
+2023,1,1.0,0.8125
+2023,2,0.8462,1.0
+2023,3,1.0,1.0
+Global,Overall Accuracy,0.9423,
+Global,Cohens Kappa,0.9231,
